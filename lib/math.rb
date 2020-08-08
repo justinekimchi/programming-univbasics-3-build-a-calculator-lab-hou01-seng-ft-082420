@@ -25,7 +25,7 @@ def square_root(num)
 end
 
 addition('5', '4')
-subtraction('5', '10')
+subtraction('10', '5')
 #division('50', '2')
 #multiplication('4','30')
 #modulo('34','5')
