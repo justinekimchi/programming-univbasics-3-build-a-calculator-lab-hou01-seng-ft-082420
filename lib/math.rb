@@ -1,16 +1,18 @@
 def addition(num1, num2)
-
+  sum = num1 + num2
 end
 
 def subtraction(num1, num2)
-
+  total = num1-num2
+  puts total
 end
 
 def division(num1, num2)
-
+   
 end
 
 def multiplication(num1, num2)
+    
 
 end
 
@@ -21,3 +23,9 @@ end
 def square_root(num)
 
 end
+
+addition('5', '4')
+subtraction('10', '5')
+#division('50', '2')
+#multiplication('4','30')
+#modulo('34','5')
