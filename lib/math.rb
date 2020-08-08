@@ -27,7 +27,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-
+  num=81
+  value=
 end
 
 addition('5', '4')
@@ -35,3 +36,4 @@ subtraction('10', '5')
 division('50', '2')
 multiplication('4','30')
 modulo('34','5')
+square_root('81','9"')
