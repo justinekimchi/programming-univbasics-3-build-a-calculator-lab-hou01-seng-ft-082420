@@ -28,7 +28,6 @@ end
 
 def square_root(num)
   num=81
-  num2=9
   total=Math.sqrt(num)
   total
 end
