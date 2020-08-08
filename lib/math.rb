@@ -28,8 +28,8 @@ end
 
 def square_root(num)
   num=81
-  Math.sqrt(81)
-  value=Math.sqrt(num)
+  Math.sqrt(num)
+  total=Math.sqrt(num)
 end
 
 addition('5', '4')
