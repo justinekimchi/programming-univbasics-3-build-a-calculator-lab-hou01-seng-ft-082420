@@ -2,8 +2,8 @@ def addition(num1, num2)
   sum = num1 + num2
 end
 
-def subtraction(num1, num2)
-  total = num1-num2
+def subtraction(num3, num4)
+  total = num3-num4
   puts total
 end
 
