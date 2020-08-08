@@ -28,7 +28,7 @@ end
 
 def square_root(num)
   num=81
-  value=Math.sqrt(num)
+  value=Math.sq
 end
 
 addition('5', '4')
