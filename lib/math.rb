@@ -28,7 +28,7 @@ end
 
 def square_root(num)
   num=81
-  findsqrt(num)
+  
 end
 
 addition('5', '4')
